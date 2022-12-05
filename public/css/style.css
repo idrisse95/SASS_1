@@ -97,6 +97,7 @@ section #deuxieme ul {
 footer {
   color: white;
   background-color: rgb(58, 58, 58);
+  padding-bottom: 50px;
 }
 
 footer div:first-child {
